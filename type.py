@@ -1,0 +1,12 @@
+a=0
+print(type(a));
+b=1.22;
+print(type(b));
+c=True;
+print(type(c));
+d="ABC";
+print(type(d));
+e=15;
+print(type(e));
+f=2.5
+print(type(f));
