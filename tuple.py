@@ -1,0 +1,17 @@
+days=("Monday","Tuesday","Wednesday","Thursday","Friday")
+print(days)
+days_list = list(days)
+print(days_list)
+#MODIFYING A SET
+s={1,2,3}
+print(s)
+s.add(4)
+print(s)
+s.remove(3)
+print(s)
+s.discard(3)
+print(s)
+s.pop()
+print(s)
+s.clear()
+print(s)
