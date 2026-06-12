@@ -1,0 +1,10 @@
+#Q: TAKE TWO NUM FROM USER AND DISPLAY IT AS: ADD , SUB , MUL ,DIV,MOD
+no1=int(input('Enter no1: '))
+no2=int(input('Enter no2: '))
+print("No1: ", no1)
+print("No2: ", no2)
+print("Addition is", no1+no2)
+print("Subtraction is", no1-no2)
+print("Multiplication is", no1*no2)
+print("Division is", no1/no2)
+print("Remainder",no1%no2)
